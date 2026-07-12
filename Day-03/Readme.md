@@ -220,6 +220,3 @@ After completing these programs, you will understand:
 
 ---
 
-## 👨‍💻 Author
-
-**Vengatesh R**
