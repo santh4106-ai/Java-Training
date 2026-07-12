@@ -57,7 +57,3 @@ java type_casting
 - Primitive Data Types
 - Type Casting
 - Console Output
-
-## Author
-
-**Vengatesh R**
